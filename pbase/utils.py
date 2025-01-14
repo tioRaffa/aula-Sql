@@ -1,7 +1,6 @@
 from logging import raiseExceptions
 from os import error
 from pickle import FALSE, TRUE
-from tkinter import NO
 from mysql.connector import Error
 import mysql.connector
 
